@@ -1,0 +1,8 @@
+# each line is a youtube video/playlist/channel url to download
+# lines starting with # or ; are comments
+# comment and blank lines are ignored
+
+
+# my channel
+https://www.youtube.com/channel/UCM7tKZe1YGbFviGxKJLZt6w
+
