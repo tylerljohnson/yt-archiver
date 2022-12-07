@@ -1,3 +1,7 @@
+
+# This repo has been archived.
+It was never really was used/useful.
+
 # yt-archiver
 
 use docker, youtube-dl & bash scripts within this repo to download youtube videos.
